@@ -1,4 +1,4 @@
-# Making of ArcoLinux-Candy-Beauty-Tela
+# Making of Edu-xfce
 
 Learn, have fun and enjoy.
 
