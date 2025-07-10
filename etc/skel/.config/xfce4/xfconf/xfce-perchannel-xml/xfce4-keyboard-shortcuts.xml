@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xfce4-keyboard-shortcuts" version="1.0">
   <property name="commands" type="empty">
@@ -75,7 +75,6 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;a" type="string" value="xfce4-appfinder"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="vivaldi-stable"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;s" type="string" value="spotify"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;c" type="string" value="catfish"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="chromium"/>
       <property name="&lt;Super&gt;x" type="string" value="archlinux-logout"/>
       <property name="XF86AudioPlay" type="string" value="playerctl play-pause"/>
@@ -112,6 +111,9 @@
       <property name="&lt;Super&gt;h" type="string" value="alacritty -e &quot;btop&quot;"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;End" type="string" value="alacritty -e &quot;btop&quot;"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;x" type="string" value="xfce4-session-logout"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;c" type="string" value="chromium"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;o" type="string" value="opera"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;b" type="string" value="brave"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
